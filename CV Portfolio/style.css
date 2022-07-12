@@ -1,0 +1,91 @@
+body{
+    background-color:bisque
+    margin:10px;
+}
+#headJumbo img {
+    height: 200px;
+    width: auto;
+    margin-right: 0px;
+    padding-left: 0px;
+}
+.jumbotron {
+    background-color:aliceblue
+   
+}
+#headJumbo h1 {
+    font-size: 2rem;
+    color: brown;
+}
+#headJumbo h4 {
+    font-size: 1.5rem;
+    color:brown;
+}
+.navbar li a {
+    color:blue;
+    font-size: 1.2rem;
+    letter-spacing: 1px;
+    margin:0px
+}
+.navbar li a:hover{
+    color:purple;
+    font-weight: bold;
+}
+#aboutMe{
+    margin-top: 30px;
+    text-align: justify;
+}
+.experiances {
+    font-weight: bold;
+    color: brown;
+}
+#experiances {
+    font-size: 1.5rem;
+    color:royalblue;
+    margin-top: 50px;
+    font-weight: bold;
+    text-decoration: none;
+    
+}
+#experiances:hover {
+    color:purple;
+    font-weight: bolder;
+
+}
+#showCase{
+    margin-top: 30px;
+}
+.carouselExampleIndicators img{
+    width: 100%;
+    height: 400px;
+    padding: 30px 0;
+    box-shadow: 1px 1px 5px black;
+}
+.cap1 {
+    margin-top: 10px;
+    color:brown;
+}
+#certificates{
+    margin-top: 30px;;
+}
+#certificates h1 {
+    font-size: 2rem;
+    text-decoration: underline black;
+    color:brown;
+
+}
+#certificates h3 {
+font-size: 1.3rem;
+font-style: italic;
+color:orangered;
+}
+#certificates p {
+color:black;
+}
+
+#media {
+    margin-top: 50px;
+    font-size: 0.75rem;
+}
+.btn{
+    font-size: 10rem;
+}
